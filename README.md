@@ -1,7 +1,6 @@
 # 🏄‍♂️ RITIK GUPTA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Developer;
-(loves reading spirutual books %2FArtist%2FSportsPerson))](https://github.com/ritikgupta2002/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Spirutalist;(Developer%2FArtist%2FSportsPerson))](https://github.com/ritikgupta2002/)
 
 I'm a fresher, who is learning the Backend Devlopment and content creator building my best version of the digital world one step at a time.
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
