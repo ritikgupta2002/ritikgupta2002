@@ -11,7 +11,6 @@ All coding projects are built from the ground up, from planning and designing al
 <a href = "https://www.linkedin.com/in/ritikgupta2002/"> 
 <img align="left" alt="LinkDinProfile" width="80px" style="padding-right:10px; " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGo_Rfn5wS_S3o1rKuwgtGuqKZDN7wVN4uiQ&usqp=CAU" /></a>
 <img align="left" alt="Gmail" width="250px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/mail-gupta.ritik2002@gmail.com-red.svg?logo=mail&logoColor=white)" />
-<img align="left" alt="Contact" width="170px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Contact-7017671375-blue.svg?logo=Phone&logoColor=white)" />
 <br/>
 
 ---
