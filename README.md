@@ -37,6 +37,7 @@ All coding projects are built from the ground up, from planning and designing al
 ## 🗄️ Databases
 
 <img align="left" alt="Mysql" width="40px" style="padding-right:10px;" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+<img align="left" alt="mongo db" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 <br/>
 
 ---
