@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=71F77E&width=435&lines=Spirutalist;(Developer%2FArtist%2FSportsPerson))](https://github.com/ritikgupta2002/)
 
-I'm a fresher, who is learning the Backend Devlopment and content creator building my best version of the digital world one step at a time.
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-`In free time i try to do leetCode.` 
+As a backend developer with hands-on experience in Node.js and Express.js, I excel at crafting scalable and high-performance backend solutions. My expertise lies in designing and implementing robust APIs, leveraging microservices architecture, and integrating diverse technologies to drive innovation and efficiency.
 
 <a href = "https://leetcode.com/rkdas/"> 
 <img align="left" alt="LeetCodeProfile" width="60px" style="padding-right:10px;" src="https://external-preview.redd.it/tGVBnJXuSYF2ATLx6yciGgwOxDbPPi0vvHYS0xN4Qgw.jpg?auto=webp&s=6809de0a12a4d5ba00f0782d2d6dfd973c07278d" /></a>
