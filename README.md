@@ -65,7 +65,7 @@ As a backend developer with hands-on experience in Node.js and Express.js, I exc
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=31&lines=%F0%9F%9A%80+Featured+Projects)](https://git.io/typing-svg)
 <p align="center">
-<a href="https://github.com/ritikgupta2002/Bus_Ticket_Booking_Application_Backend_Backend">
+<a href="https://github.com/ritikgupta2002/Bus_Ticket_Booking_Application_Backend">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?
 username=ritikgupta2002&repo=Bus_Ticket_Booking_Application_Backend&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Bus_Ticket_Booking_Application_Backend">
 </a>
