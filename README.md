@@ -83,6 +83,12 @@ As a backend developer with hands-on experience in Node.js and Express.js, I exc
     <img src="https://leetcard.jacoblin.cool/rkdas?ext=heatmap" alt="LeetCode Stats">
 </div>
 
+---
 
- ---
+ ## 📄 Download My Resume
+
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1U8wd3Q2pc-L-NJ9n_fwrUBT-B0VNn4t2/view?usp=sharing)
+
+---
+
  
