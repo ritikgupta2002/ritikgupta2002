@@ -5,7 +5,7 @@
 As a backend developer with hands-on experience in Node.js and Express.js, I excel at crafting scalable and high-performance backend solutions. My expertise lies in designing and implementing robust APIs, leveraging microservices architecture, and integrating diverse technologies to drive innovation and efficiency.
 
 <a href = "https://leetcode.com/rkdas/"> 
-<img align="left" alt="LeetCodeProfile" width="60px" style="padding-right:10px;" src="https://external-preview.redd.it/tGVBnJXuSYF2ATLx6yciGgwOxDbPPi0vvHYS0xN4Qgw.jpg?auto=webp&s=6809de0a12a4d5ba00f0782d2d6dfd973c07278d" /></a>
+<img align="left" alt="LeetCode" width="28px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
 <a href = "https://www.linkedin.com/in/ritikgupta2002/"> 
 <img align="left" alt="LinkDinProfile" width="80px" style="padding-right:10px; " src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGo_Rfn5wS_S3o1rKuwgtGuqKZDN7wVN4uiQ&usqp=CAU" /></a>
 <img align="left" alt="Gmail" width="250px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/mail-gupta.ritik2002@gmail.com-red.svg?logo=mail&logoColor=white)" />
